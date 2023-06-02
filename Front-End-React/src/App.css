@@ -1,0 +1,24 @@
+form {
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+form input {
+  margin-bottom: 5px;
+ 
+}
+
+form input[type="button"] {
+  margin-right: 10px;
+}
+
+h1  {
+  text-align: center;
+  margin-top: 20px;
+
+}
+
+body {
+  background-color: skyblue;
+}
